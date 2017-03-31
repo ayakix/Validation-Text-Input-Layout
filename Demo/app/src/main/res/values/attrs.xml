@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ValidationTextInputLayout">
+        <attr name="required" format="boolean" />
+        <attr name="validation_type">
+            <enum name="post_code" value="0" />
+            <enum name="email" value="1" />
+        </attr>
+        <attr name="error_text" format="string" />
+    </declare-styleable>
+</resources>

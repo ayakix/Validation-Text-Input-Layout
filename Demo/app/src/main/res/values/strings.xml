@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ValidationTextInputLayout</string>
+    <string name="error_default_text">Invalidated value</string>
+</resources>
